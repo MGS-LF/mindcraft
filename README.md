@@ -137,11 +137,11 @@ LLM后端可以简单指定为“model”: “gpt-3.5-turbo”。然而，对于
 "embedding": "openai"
 ```
 
-##补丁
+## 补丁
 
 我们依赖的一些节点模块中存在bug。要添加补丁，请修改您本地的节点模块文件，然后运行`npx patch-package [package-name]`
 
-##引文：
+## 引文：
 
 ```
 @misc{mindcraft2023,
